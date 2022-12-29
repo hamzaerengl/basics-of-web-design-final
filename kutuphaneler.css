@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background:url(libraries-6-1533667348.jpg);
+    height:265vh;
+    background-size: 100% 100%;
+  
+   
+
+}
+.container .navbar{
+    width: 100%;
+    height: 80px;
+    background: rgb(138, 27, 27, 0.638)
+
+}
+.navbar ul {
+    float:right;
+    margin-right: 20px;
+}
+
+.navbar .logo{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top:20px ;
+}
+
+.navbar .logo a{
+    text-decoration:none ;
+    font-size: 30px;
+    font-family:sans-serif ;
+    color: #f3f3f3;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin:0 8px;
+    line-height: 80px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    transition: 2s;
+}
+
+
+.navbar ul li a:hover{
+background: #beae93;
+border-radius: 2px;
+}
+
+.table{
+    position: absolute;
+    top: 140%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: sans-serif;
+    user-select: none;
+    color:rgba(241, 140, 140)
+    
+    
+    
+}
+.table a{
+    color: rgb(207, 207, 207);
+    text-decoration: none;
+}
+
+.table a:hover{
+    
+    color:#535353;
+    transition: 1s ;
+    display: inline-block;
+    text-decoration: none ;
+}
+
+.table .sehir{
+    color: rgb(241, 105, 0);
+}
+.logo{
+    position: absolute;
+    top: -15px;
+    left: -40px;
+    
+       
+   }
