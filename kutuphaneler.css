@@ -4,7 +4,7 @@
 }
 .container{
     background:url(libraries-6-1533667348.jpg);
-    height:265vh;
+    height:110vh;
     background-size: 100% 100%;
   
    
@@ -53,12 +53,12 @@
 
 .navbar ul li a:hover{
 background: #beae93;
-border-radius: 2px;
+border-radius: 20px;
 }
 
 .table{
     position: absolute;
-    top: 140%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%,-50%);
     font-family: sans-serif;
@@ -90,4 +90,10 @@ border-radius: 2px;
     left: -40px;
     
        
+   }
+
+   .kutuphane{
+    position: absolute;
+    top: 720px;
+    right: 700px;
    }

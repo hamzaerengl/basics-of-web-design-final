@@ -71,28 +71,24 @@ border-radius: 20px;
     top: -15px;
     left: -40px;
     
-       
-   }    
- .iletisim button{
-
-    width: 100px;
-    border-radius: 10px 10px;
-    transition: 1s;
-    color: #f3f3f3;
-    height: 30px;
-    background: brown;
+}       
+.container h1{
     position: absolute;
-    top: 90%;
-    left:40%
-    
- }
+   top: 300px;
+   
+}
 
- .iletisim button:hover{
-    background: pink;
-    border-radius: 1s;
- }
- .iletisim button a{
-    text-decoration: none;
-    color: #f3f3f3;
-    
- }
+.bagisileti img{
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 400px;
+    left: 350px;
+    border-radius: 10px;
+}
+
+.bagisileti h1 {
+    position: absolute;
+    left: 150px;
+    top: 250px;
+}

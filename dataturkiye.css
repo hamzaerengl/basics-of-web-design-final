@@ -119,23 +119,47 @@ border-radius: 20px;
     line-height: 100px;
 }
 
-.kitapg{
+.dataturkiye h2{
     position: absolute;
-   margin-top: -630px;
-   margin-left: 20px;
-}
-
-.kitapg h2 {
     color: red;
-    position: sticky;
-    margin-right: 10px;
+    top: 150px;
+    left: 10px;
+    font-family: sans-serif;
+    
 }
 
-.kitapg ol li{
-   position: sticky;
-   margin-top: 50px;
-   right: 30px;
-   
+.dataturkiye h3{
+    position: absolute;
     color: white;
+    top: 250px;
+    left: 10px;
+    font-family: sans-serif;
     
+}
+
+.dataturkiye h4{
+    position: absolute;
+    color: white;
+    top: 350px;
+    left: 10px;
+    font-family: sans-serif;
+    
+}
+
+.dataturkiye h5{
+    position: absolute;
+    color: white;
+    top: 400px;
+    left: 10px;
+    font-family: sans-serif;
+    
+}
+
+.dataturkiye img{
+    margin-top: -300px;
+    position: absolute;
+    width: 360px;
+    height: 270px;
+    margin-left: 10px;
+    border-radius: 20px;
 }
