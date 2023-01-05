@@ -109,19 +109,57 @@ border-radius: 20px;
  
     
 }
-
-.navbar ol li a{
-color: rgba(175, 175, 175) ;
-    text-decoration: none;
+.navbar ul li h1 {
+    color: #f3f3f3;
     position: absolute;
-    margin-top: 120px;
-    margin-left: 20px;
+    top: 300px;
+    left: 450px;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 100px;
 }
 
-.navbar ol li h2 a:hover{
-    text-decoration: none;
+.corba h2{
     position: absolute;
-    background: rgba(223, 13, 13, 0.638);
-    transition: 1s;
+    color: red;
+    top: 150px;
+    left: 10px;
+    font-family: sans-serif;
     
+}
+
+.corba h3{
+    position: absolute;
+    color: white;
+    top: 250px;
+    left: 10px;
+    font-family: sans-serif;
+    
+}
+
+.corba h4{
+    position: absolute;
+    color: white;
+    top: 350px;
+    left: 10px;
+    font-family: sans-serif;
+    
+}
+
+.corba h5{
+    position: absolute;
+    color: white;
+    top: 400px;
+    left: 10px;
+    font-family: sans-serif;
+    
+}
+
+.corba img{
+    margin-top: -300px;
+    position: absolute;
+    width: 360px;
+    height: 270px;
+    margin-left: 10px;
+    border-radius: 20px;
 }

@@ -23,7 +23,7 @@
 .navbar .logo{
     display: inline-block;
     margin-left: 50px;
-    margin-top:20px ;
+    margin-top:10px ;
 }
 
 .navbar .logo a{
@@ -151,5 +151,50 @@ border-radius: 20px;
  .bagis button a{
     text-decoration: none;
     color: #f3f3f3;
+    
+ }
+
+
+ .bagis .buttondesign button{
+    width: 100px;
+    border-radius: 10px 10px;
+    transition: 1s;
+    color: #f3f3f3;
+    height: 30px;
+    background: rgba(165, 42, 42, 0);
+    position: absolute;
+    top: 70%;
+    left:10%
+ }
+
+ .bagis .buttondesign button:hover{
+    background: brown;
+    border-radius: 1s;
+ }
+ .bagis .buttondesign button a{
+    text-decoration: none;
+    color: #f3f3f3;
+    
+ }
+
+ .bagis .buttondesign1 button{
+    width: 100px;
+    border-radius: 10px 10px;
+    transition: 1s;
+    color: #f3f3f3;
+    height: 30px;
+    background: rgba(152, 236, 202, 0);
+    position: absolute;
+    top: 70%;
+    left:60%
+ }
+
+ .bagis .buttondesign1 button:hover{
+    background:brown;
+    border-radius: 1s;
+ }
+ .bagis .buttondesign1 button a{
+    text-decoration: none;
+    color: #fcfcfc;
     
  }

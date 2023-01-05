@@ -56,7 +56,7 @@ background: #beae93;
 border-radius: 20px;
 }
 
-.iletisim{
+.kitap{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -71,24 +71,35 @@ border-radius: 20px;
     top: -15px;
     left: -40px;
     
-}       
-.container h1{
-    position: absolute;
-   top: 300px;
-   
-}
+       
+   }    
+ .kitap button{
 
-.bagisileti img{
-    width: 700px;
-    height: 300px;
+    width: 100px;
+    border-radius: 10px 10px;
+    transition: 1s;
+    color: #f3f3f3;
+    height: 30px;
+    background: brown;
     position: absolute;
-    top: 400px;
-    left: 350px;
-    border-radius: 10px;
-}
+    top: 90%;
+    left:40%
+    
+ }
 
-.bagisileti h1 {
+ .kitap button:hover{
+    background: pink;
+    border-radius: 1s;
+ }
+ .kitap button a{
+    text-decoration: none;
+    color: #f3f3f3;
+    
+ }
+
+ .baslik h1{
     position: absolute;
-    left: 150px;
-    top: 250px;
-}
+    color: red;
+    top: 210px;
+    left: 43%;
+ }

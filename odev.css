@@ -23,7 +23,7 @@
 .navbar .logo{
     display: inline-block;
     margin-left: 50px;
-    margin-top:20px ;
+    margin-top:10px ;
 }
 
 .navbar .logo a{
@@ -118,3 +118,4 @@ border-radius: 20px;
     font-size: 100px;
     line-height: 100px;
 }
+
